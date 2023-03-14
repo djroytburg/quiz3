@@ -1,0 +1,10 @@
+{
+    "ontology": {
+        "sci-fi": ["science fiction", "scifi", "sci fi", "sci-fi"],
+        "superhero": ["marvel", "dc", "avengers", "comic books"],
+        "romcom": ["rom com", "rom coms","romantic comedy", "romantic comedies", "rom-com", "rom-coms"],
+        "fantasy": ["magic", "dystopia", "fiction","fantasies"],
+        "horror": ["thriller", "scary","jumpscare"],
+        "comedy": ["funny", "laugh", "comedies"]
+    }
+}
